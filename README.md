@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saadalmogren
 - 👀 I’m interested in Backend web development and DevOps
-- 🌱 I’m currently learning Spring Framework
 - 📫 You can reach me by email: saad-mogren@hotmail.com
 
 <!---
